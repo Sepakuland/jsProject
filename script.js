@@ -30,5 +30,4 @@ document.addEventListener('keydown', function (e) {
   }
 });
 
-console.log('hiiiiiiiiiii');
-console.log('hiiiiiiiiiii');
+console.log(document.documentElement);
